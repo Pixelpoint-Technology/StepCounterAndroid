@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Step Counter</string>
+
+    <string name="Total_Time">TOTAL TIME</string>
+    <string name="Action">Action</string>string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="Pause">Pause</string>
+
+    <string name="Prepare">Prepare...</string>
+
+    <string name="No">NO</string>
+    <string name="Level">LEVEL</string>
+    <string name="Date">DATE</string>
+    <string name="Date_time">DATE "  " TIME</string>
+    <string name="Report">Report</string>
+    <string name="Duration">DURATION</string>
+    <string name="Type">TYPE</string>
+    <string name="Day">Day</string>
+    <string name="Date_small">Date</string>
+
+    <string name="Steps">Steps</string>
+    <string name="Precautions">Precautions</string>
+    <string name="Total_time">Total Time</string>
+    <string name="Total_days_progress">Total Days</string>
+    <string name="Start_date">Start Date</string>
+    <string name="End_date">End Date</string>
+    <string name="Total_progress">Total Progress</string>
+    <string name="Level_progress">Level</string>
+
+    <string name="Congrats">Congratulations</string>
+    <string name="Come_back_tomorrow">Your today\'s fitness regime is over. Come back tomorrow..!!</string>
+
+    <string name="Your_leve">Your level</string>
+    <string name="Fitness_regime_21">of fitness regime for 21 days is completed. Your level</string>
+    <string name="Share_experience">will be started from tomorrow. Share your experience with us..!!!</string>
+
+    <string name="Step_counter">Step Counter</string>
+    <string name="Last_steps">Last day steps</string>
+    <string name="Total_steps">Total Steps</string>
+    <string name="Step">Steps</string>
+    <string name="Max_Step">Max Steps</string>
+    <string name="Between_steps">Between 500 to 10000</string>
+    <string name="About">ABOUT</string>
+</resources>
